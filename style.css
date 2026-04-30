@@ -1,6 +1,8 @@
 body{
-    background-color: blueviolet;
+    background-color: rgba(150, 109, 33, 0.055);
 }
 header{
-    background-color: beige;
+    background-color: rgba(219, 173, 45, 0.267);
+}header div img{
+    width: 300px;
 }
